@@ -19,7 +19,7 @@ The website was created to provide a central online presence for ministry teachi
 
 ### Live Website
 
-https://levimosesministies.org
+https://levimosesministries.org
 
 ### Tools Used
 
